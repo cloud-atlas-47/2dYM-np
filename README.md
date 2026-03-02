@@ -1,5 +1,5 @@
 # 2dYM-np
-Non-perturbative corrections to 2d YM chiral partition function in the large $N$ limit.
+Produce the perturbative data of 2d YM chiral partition function in the large $N$ limit, which are necessary for performing non-perturbative studies using resurgence techniques.
 
 ## Data files:
 - Zholg50q1000.dat: Holomorphic partition function in q-series, from g=1 to g=50, up to q^1000.
